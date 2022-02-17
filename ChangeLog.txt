@@ -1,0 +1,5 @@
+V 0.0.1
+
+Basic game with a home screen and simple gameplay. 
+Base obstacle and HoleInTheWall implemented.
+Has score in the corner and the blocks move faster as time goes on capped at 5.
